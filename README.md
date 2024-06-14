@@ -23,3 +23,15 @@ DQN, DDQN, DDPG for playing LunarLander and BreakoutNoFrameskip
 ## Lab 6 - Let's Play DDPM
 
 DDPM based on Unet
+
+## Exam
+- Latent factor model
+- VAE GAN CNN RNN flow model and how they draw sample. Generate sample or distribution. Training objective
+- Difference between WGAN and GAN
+- Why diffusion Bt need to be small?
+- DQN and DDPG exploration method
+- How to reduce variance of Reinforcement learning?
+- Dropout, what is better to use and when not to use it?
+- What impact does different Padding have on performance?
+- The difference between Transformer and CNN. How to design attention? What are the advantages and disadvantages of adding attention to CNN and adding it to RNN?
+- What are Sigmoid and ReLU? Why does Sigmoid have gradient vanish? What is the difference between Sigmoid and ReLU?

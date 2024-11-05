@@ -1,0 +1,3 @@
+[submodule "Latent-SDF"]
+	path = Latent-SDF
+	url = https://github.com/shigon255/Latent-SDF.git

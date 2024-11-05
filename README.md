@@ -24,7 +24,7 @@ DQN, DDQN, DDPG for playing LunarLander and BreakoutNoFrameskip
 
 DDPM based on Unet
 
-## Final Project - Latent 
+## Final Project - 3D Object Repainting
 
 Replace the mesh with the SDF neural network used for painting to reduce the storage space
 

@@ -24,6 +24,10 @@ DQN, DDQN, DDPG for playing LunarLander and BreakoutNoFrameskip
 
 DDPM based on Unet
 
+## Final Project - Latent 
+
+Replace the mesh with the SDF neural network used for painting to reduce the storage space
+
 ## Exam
 - Latent factor model
 - VAE GAN CNN RNN flow model and how they draw sample. Generate sample or distribution. Training objective
